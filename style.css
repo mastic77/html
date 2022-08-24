@@ -1,0 +1,107 @@
+.nav-con{
+    padding: 1% 1% 1% 1%;
+    background-color: rgb(74, 74, 74);
+}
+.nav-flex{
+    padding-left: 20%;
+}
+a{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.t-con{
+    margin: 1% 1% 1% 1%;
+    padding-left: 5%;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}
+.no-con{
+    padding: 1% 1% 1% 1%;
+    border: 5px rgb(227, 0, 0);
+    align-items: center;
+}
+.dis-con{
+    padding-left: 5px;
+}
+.tit{
+    color: rgb(0, 253, 67);
+    padding-left: 2px;
+    margin: 1% 1% 1% 1%;
+    text-shadow: blueviolet;
+    background-color: rgb(109, 1, 203);   
+}
+b:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+.img-con{
+    border-image: 4px solid black;
+    border: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.pic-dis{
+    padding-left: 5%;
+    padding-right: 10%;
+    opacity: 0.5;
+}
+.pic-dis:hover{
+    color: magenta;
+    opacity: 1;
+    cursor: pointer;
+}
+.pic-con{
+    margin: 1% 1% 1% 1%;
+}
+.pic-flex{
+    padding-left: 7.5%;
+    display: flex;
+}
+.co-con{
+    padding-left: 80%;
+    border: 5px rgb(113, 6, 6);
+    margin: 1% 1% 1% 1%;
+}
+.co-flex{
+    display: flex;
+
+}
+.f{
+    color: yellowgreen;
+    opacity: 0.5;
+}
+.hv{
+    background-size: contain;
+    color: black;
+}
+.hv:hover{
+    cursor: pointer;
+    opacity: 0.5;
+    color: rgb(122, 28, 215);
+}
+.can{
+    text-justify: auto;
+    color: blue;
+    padding-left: 12%;
+    padding-right: 20%;
+    background-size: 50%;
+}
+.bc-colour{
+    padding-left: 20%;
+    padding-right: 20%;
+    border: 2px;
+    padding: 2px;
+    background-color: black;
+    
+}
+.tit:hover{
+    color:white;
+}
